@@ -58,7 +58,7 @@ void draw() {
     }
     //println(val);
     
-    path = new P_LinearPath(new PVector(xPos, height/2, 0), new PVector(xPos+, height/2, 0));
+    path = new P_LinearPath(new PVector(xPos, height/2, 0), new PVector(xPos+diskThickness, height/2, 0));
     contour = new C_Rod(val, 40);
     conScale = new CS_ConstantScale();
     // Create the texture coordinates for the end
