@@ -53,4 +53,7 @@ This repository contains a syllabus and codes for [3D Printed Data - Make Your O
 - “keyword_trend_disc_stack"
     - library used: [PeasyCam](http://mrfeinberg.com/peasycam/), [OBJExport](http://n-e-r-v-o-u-s.com/tools/obj/), [Shapes 3D](http://www.lagers.org.uk/s3d4p/ref/index.html)
     
- 
+## More Resources
+- [Data Physicalization Wiki](http://dataphys.org/)
+- [Processing Reference](https://processing.org/reference/)
+- [How to make a simple 3d in Processing](https://www.uni-weimar.de/kunst-und-gestaltung/wiki/images/How_to_make_a_simple_3D_in_processing.pdf)
