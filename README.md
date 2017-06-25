@@ -38,7 +38,8 @@ This repository contains a syllabus and codes for [3D Printed Data - Make Your O
   - we'll write some more codes on top of “draw_circle_from_data”
   - set renderer to P3D in setup()
   - use pushMatrix(), translate(), popMatrix()
-  - load and use the Peasycam library
+  - load and use the [Peasycam](http://mrfeinberg.com/peasycam/) library to move camera in the sketch
+  - load and use the [OBJExport](http://n-e-r-v-o-u-s.com/tools/obj/) library to export the model to .obj
 
 ## Make Your Own 3D Model with Google Trend Data
 - Process
