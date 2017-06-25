@@ -32,10 +32,10 @@ This repository contains a syllabus and codes for [3D Printed Data - Make Your O
 - offers an opportunity to better understand how 3d modeling programs work
 
 ## Code Excercises
-- visualizing data in 2d: “draw_circle_from_data"
+- visualizing data in 2d: [draw_circle_from_data](https://github.com/pyeseul/3d-printed-data/tree/master/draw_circle_from_data)
   - load simple numeric data from a .csv file and use to draw different sizes of circles
-- visualizing data in 3d: “draw_sphere_from_data"
-  - we'll write some more codes on top of “draw_circle_from_data”
+- visualizing data in 3d: [draw_sphere_from_data](https://github.com/pyeseul/3d-printed-data/tree/master/draw_sphere_from_data)
+  - we'll write some more codes on top of [draw_circle_from_data](https://github.com/pyeseul/3d-printed-data/tree/master/draw_circle_from_data)
   - set renderer to P3D in setup()
   - use pushMatrix(), translate(), popMatrix()
   - load and use the [Peasycam](http://mrfeinberg.com/peasycam/) library to move camera in the sketch
@@ -48,10 +48,10 @@ This repository contains a syllabus and codes for [3D Printed Data - Make Your O
   3. make a 3d model using the parsed data
   4. export the model to .obj format which is compatible with 3d printing software
   5. load the .obj file in 3d printing software (we’ll use Cura), adjust the settings and print!
-- “keyword_trend_bar_graph"
+- [keyword_trend_bar_graph](https://github.com/pyeseul/3d-printed-data/tree/master/keyword_trend_bar_graph)
     - library used: [PeasyCam](http://mrfeinberg.com/peasycam/), [OBJExport](http://n-e-r-v-o-u-s.com/tools/obj/)
-- “keyword_trend_disc_stack"
-    - library used: [PeasyCam](http://mrfeinberg.com/peasycam/), [OBJExport](http://n-e-r-v-o-u-s.com/tools/obj/), [Shapes 3D](http://www.lagers.org.uk/s3d4p/ref/index.html)
+- [keyword_trend_disc_stack](https://github.com/pyeseul/3d-printed-data/tree/master/keyword_trend_stacked_discs)
+    - library used: [PeasyCam](http://mrfeinberg.com/peasycam/), [OBJExport](http://n-e-r-v-o-u-s.com/tools/obj/), [Shapes 3D](http://www.lagers.org.uk/s3d4p/ref/index.html)    
     
 ## More Resources
 - [Data Physicalization Wiki](http://dataphys.org/)
