@@ -50,8 +50,12 @@ This repository contains a syllabus and codes for [3D Printed Data - Make Your O
   5. load the .obj file in 3d printing software (we’ll use Cura), adjust the settings and print!
 - [keyword_trend_bar_graph](https://github.com/pyeseul/3d-printed-data/tree/master/keyword_trend_bar_graph)
     - library used: [PeasyCam](http://mrfeinberg.com/peasycam/), [OBJExport](http://n-e-r-v-o-u-s.com/tools/obj/)
+    - below is a 3d model made of search frequency data of the "trump" keyword over the past year on Google Trend
+      - ![image of bar graph 3d model example](https://github.com/pyeseul/3d-printed-data/blob/master/outcomes/keyword_trend_bar_graph.gif)
 - [keyword_trend_disc_stack](https://github.com/pyeseul/3d-printed-data/tree/master/keyword_trend_stacked_discs)
     - library used: [PeasyCam](http://mrfeinberg.com/peasycam/), [OBJExport](http://n-e-r-v-o-u-s.com/tools/obj/), [Shapes 3D](http://www.lagers.org.uk/s3d4p/ref/index.html)    
+    - below is a 3d model made of search frequency data of the "trump" keyword over the past year on Google Trend
+      - ![image of stacked disc 3d model example](https://github.com/pyeseul/3d-printed-data/blob/master/outcomes/keyword_trend_stacked_discs.gif)
     
 ## More Resources
 - [Data Physicalization Wiki](http://dataphys.org/)
