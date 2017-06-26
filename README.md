@@ -42,12 +42,15 @@ This repository contains a syllabus and codes for [3D Printed Data - Make Your O
   - load and use the [OBJExport](http://n-e-r-v-o-u-s.com/tools/obj/) library to export the model to .obj
 
 ## Make Your Own 3D Model with Google Trend Data
-- Process
+
+#### Process
   1. search your word on [Google Trends](https://trends.google.com/trends/) and download the .csv file
   2. parse the .csv file in Processing
   3. make a 3d model using the parsed data
   4. export the model to .obj format which is compatible with 3d printing software
   5. load the .obj file in 3d printing software (we’ll use Cura), adjust the settings and print!
+  
+#### Code
 - [keyword_trend_bar_graph](https://github.com/pyeseul/3d-printed-data/tree/master/keyword_trend_bar_graph)
     - library used: [PeasyCam](http://mrfeinberg.com/peasycam/), [OBJExport](http://n-e-r-v-o-u-s.com/tools/obj/)
     - below is a 3d model made of search frequency data of the "trump" keyword over the past year on Google Trend
@@ -56,9 +59,10 @@ This repository contains a syllabus and codes for [3D Printed Data - Make Your O
     - library used: [PeasyCam](http://mrfeinberg.com/peasycam/), [OBJExport](http://n-e-r-v-o-u-s.com/tools/obj/), [Shapes 3D](http://www.lagers.org.uk/s3d4p/ref/index.html)    
     - below is a 3d model made of search frequency data of the "trump" keyword over the past year on Google Trend
       - ![image of stacked disc 3d model example](https://github.com/pyeseul/3d-printed-data/blob/master/outcomes/keyword_trend_stacked_discs.gif)
-- print examples (more photos [here](https://github.com/pyeseul/3d-printed-data/tree/master/outcomes))  
-  - ![3d printing on lulzbot](https://github.com/pyeseul/3d-printed-data/blob/master/outcomes/stacked_discs_printing.JPG)
-  - ![3d prints](https://github.com/pyeseul/3d-printed-data/blob/master/outcomes/3d_prints.JPG)  
+      
+#### Outcome Examples: more photos [here](https://github.com/pyeseul/3d-printed-data/tree/master/outcomes)
+![3d printing on lulzbot](https://github.com/pyeseul/3d-printed-data/blob/master/outcomes/stacked_discs_printing.JPG)
+![3d prints](https://github.com/pyeseul/3d-printed-data/blob/master/outcomes/3d_prints.JPG)  
     
 ## More Resources
 - [Data Physicalization Wiki](http://dataphys.org/)
