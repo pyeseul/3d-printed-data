@@ -56,6 +56,9 @@ This repository contains a syllabus and codes for [3D Printed Data - Make Your O
     - library used: [PeasyCam](http://mrfeinberg.com/peasycam/), [OBJExport](http://n-e-r-v-o-u-s.com/tools/obj/), [Shapes 3D](http://www.lagers.org.uk/s3d4p/ref/index.html)    
     - below is a 3d model made of search frequency data of the "trump" keyword over the past year on Google Trend
       - ![image of stacked disc 3d model example](https://github.com/pyeseul/3d-printed-data/blob/master/outcomes/keyword_trend_stacked_discs.gif)
+- print examples (more photos [here](https://github.com/pyeseul/3d-printed-data/tree/master/outcomes))  
+  - ![3d printing on lulzbot](https://github.com/pyeseul/3d-printed-data/blob/master/outcomes/stacked_discs_printing.JPG)
+  - ![3d prints](https://github.com/pyeseul/3d-printed-data/blob/master/outcomes/3d_prints.JPG)  
     
 ## More Resources
 - [Data Physicalization Wiki](http://dataphys.org/)
