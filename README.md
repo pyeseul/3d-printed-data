@@ -62,7 +62,7 @@ This repository contains a syllabus and codes for [3D Printed Data - Make Your O
     
 ## More Resources
 - [Data Physicalization Wiki](http://dataphys.org/)
-- [NYU Open Data](https://opendata.cityofnewyork.us/data/)
+- [NYC Open Data](https://opendata.cityofnewyork.us/data/)
 - [Processing Reference](https://processing.org/reference/)
 - [How to make a simple 3d in Processing](https://www.uni-weimar.de/kunst-und-gestaltung/wiki/images/How_to_make_a_simple_3D_in_processing.pdf)
 
